@@ -1,0 +1,6 @@
+[package]
+name = "Zero_Knowledge_Proof_of_Password_Knowledge_Using_Noir"
+type = "bin"
+authors = [""]
+
+[dependencies]
